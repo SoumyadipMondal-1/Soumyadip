@@ -1,7 +1,7 @@
 <!-- Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFB2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Soumyadip;Building+the+future%2C+one+line+of+code+at+a+time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFB2&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Soumyadip;Building+the+future%2C+one+line+of+code+at+a+time" alt="Typing SVG" />
   </a>
 </p>
 
@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=Soumyadip&style=flat&color=brightgreen" alt="Profile Views" />
 </p>
 
-<!-- About Me Section with Responsive Layout -->
+<!-- About Me Section -->
 <table>
 <tr>
 <td valign="top" width="60%">
@@ -21,11 +21,11 @@
 - 📧 **soumyadip848100@gmail.com**  
 
 **Connect with me:**  
-<a href="https://twitter.com/yourusername" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://twitter.com/your_twitter" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30"/>
 </a>
-<a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/your_linkedin" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
 </a>
 
 </td>
@@ -42,7 +42,7 @@
 ## 🛠 Tech Stack  
 
 **Programming Languages**  
-<p>
+<p style="margin-bottom: -5px;">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white&borderRadius=8" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&borderRadius=8" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white&borderRadius=8" />
@@ -50,20 +50,20 @@
 </p>
 
 **Data Management Tools**  
-<p>
+<p style="margin-bottom: -5px;">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white&borderRadius=8" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black&borderRadius=8" />
 </p>
 
 **Databases**  
-<p>
+<p style="margin-bottom: -5px;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&borderRadius=8" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&borderRadius=8" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&borderRadius=8" />
 </p>
 
 **Data Science Libraries**  
-<p>
+<p style="margin-bottom: -5px;">
   <img src="https://img.shields.io/badge/Seaborn-4EABD1?style=flat&logo=python&logoColor=white&borderRadius=8" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white&borderRadius=8" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&borderRadius=8" />
@@ -71,7 +71,7 @@
 </p>
 
 **Web Development**  
-<p>
+<p style="margin-bottom: -5px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&borderRadius=8" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&borderRadius=8" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&borderRadius=8" />
@@ -87,15 +87,15 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumyadip&show_icons=true&theme=radical" height="190" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadip&theme=radical" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Soumyadip&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadip&theme=radical" height="180" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumyadip&theme=react-dark&height=280" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumyadip&theme=react-dark&height=280" width="92%" />
 </p>
 
 <p align="center">
