@@ -8,13 +8,16 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 **B.Tech in Computer Science & Engineering (2027)**  
-- 🎓 **Diploma in Electronics & Telecommunication Engineering (2024)**  
+- 🎓 B.Tech in Computer Science & Engineering (2027)  
+- 🎓 Diploma in Electronics & Telecommunication Engineering (2024)  
 - 💻 Passionate about **Data Science, Web Development & Problem Solving**  
-- 📧 **Email:** soumyadip848100@gmail.com  
-- 🎓 **Currently Learning:** Data Science & Machine Learning  
-- 🌐 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadipmondal)
+- 📧 Contact: **soumyadip848100@gmail.com**  
+- 📚 Currently learning **Data Science & Machine Learning**  
+
+---
+
+## 🌐 Connect with me  
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/soumyadipmondal)
 
 ---
 
