@@ -20,10 +20,18 @@
 - 💻 Passionate about **Data Science, Web Development, IoT & Problem Solving**  
 - 📧 **soumyadip848100@gmail.com**  
 
+**Connect with me:**  
+<a href="https://twitter.com/yourusername" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </td>
 <td valign="top" align="center" width="40%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Tech Animation" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="105%" alt="Tech Animation" />
 
 </td>
 </tr>
@@ -79,15 +87,15 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumyadip&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadip&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Soumyadip&show_icons=true&theme=radical" height="190" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadip&theme=radical" height="190" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumyadip&theme=react-dark&height=250" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumyadip&theme=react-dark&height=280" width="95%" />
 </p>
 
 <p align="center">
