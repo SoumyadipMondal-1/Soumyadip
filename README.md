@@ -9,10 +9,11 @@
 
 ## 👨‍💻 About Me  
 - 🎓 B.Tech in Computer Science & Engineering (2027)  
-- 🎓 Diploma in Electronics & Telecommunication Engineering (2024)  
+- 🎓 Diploma in Electronics & Telecommunication Engineering (2024)
+- 📚 Currently learning **Data Science & Machine Learning**  
 - 💻 Passionate about **Data Science, Web Development & Problem Solving**  
 - 📧 Contact: **soumyadip848100@gmail.com**  
-- 📚 Currently learning **Data Science & Machine Learning**  
+
 
 ---
 
