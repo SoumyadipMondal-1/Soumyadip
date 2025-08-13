@@ -1,5 +1,5 @@
 <!-- Typewriter Intro -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFB2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Soumyadip+Mondal;Welcome+to+my+GitHub+Profile!;I+Love+Coding+%26+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFB2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Soumyadip;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=Soumyadip&style=flat-square&color=brightgreen)
 
