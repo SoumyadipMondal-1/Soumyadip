@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&borderRadius=8" />
 </p>
 
-**Hardware & IoT**  
+**Hardware**  
 <p>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white&borderRadius=8" />
   <img src="https://img.shields.io/badge/IoT-FF6F00?style=flat&logo=internet-of-things&logoColor=white&borderRadius=8" />
