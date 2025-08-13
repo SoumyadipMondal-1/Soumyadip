@@ -12,7 +12,7 @@
 <!-- About Me Section -->
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="60%">
 
 - 🎓 **B.Tech in Computer Science & Engineering** (2027)  
 - 🎓 **Diploma in Electronics & Telecommunication Engineering** (2024)  
@@ -21,9 +21,6 @@
 - 📧 **soumyadip848100@gmail.com**  
 
 **Connect with me:**  
-<a href="https://twitter.com/your_twitter" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30"/>
-</a>
 <a href="https://linkedin.com/in/your_linkedin" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
 </a>
