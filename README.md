@@ -1,4 +1,4 @@
-<!-- Typewriter Intro -->
+<!-- Intro -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFB2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Soumyadip;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=Soumyadip&style=flat-square&color=brightgreen)
@@ -8,11 +8,13 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 B.Tech in Computer Science & Engineering (2027)
-- 🎓 Diploma in Electronics & Telecommunication Engineering (2024)
+- 🎓 B.Tech in Computer Science & Engineering (2027)  
+- 🎓 Diploma in Electronics & Telecommunication Engineering (2024)  
 - 💻 Passionate about **Data Science, Web Development & Problem Solving**  
 - 📧 Contact: **soumyadip848100@gmail.com**  
 - 🌱 Currently learning **Data Science & Machine Learning**  
+- 🌐 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soumyadipmondal)
 
 ---
 
