@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me <img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="margin-top: -40px; margin-left: 20px;" />
+## 🚀 About Me <img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="margin-top: -60px; margin-left: 20px;" />
   
 🎓 B.Tech in Computer Science & Engineering (2027)  
 🎓 Diploma in Electronics & Telecommunication Engineering (2024)  
