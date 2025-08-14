@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
 🎓 **B.Tech in Computer Science & Engineering** (2027)  
 🎓 **Diploma in Electronics & Telecommunication Engineering** (2024)  
