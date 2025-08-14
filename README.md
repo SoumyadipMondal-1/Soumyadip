@@ -12,9 +12,28 @@
 
 ---
 
-<table>
+<style>
+@media (max-width: 768px) {
+  .mobile-stack {
+    display: block !important;
+  }
+  .mobile-stack td {
+    display: block !important;
+    width: 100% !important;
+  }
+  .mobile-about {
+    order: 1;
+  }
+  .mobile-gif {
+    order: 2;
+    text-align: center !important;
+  }
+}
+</style>
+
+<table class="mobile-stack">
 <tr>
-<td width="40%">
+<td width="40%" class="mobile-about">
   
 ## 🚀 About Me
   
@@ -35,7 +54,7 @@
 </p>
 
 </td>
-<td align="center" width="40%">
+<td align="center" width="40%" class="mobile-gif">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
 </td>
 </tr>
