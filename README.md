@@ -1,5 +1,4 @@
 <!-- Intro -->
-<!-- Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFB2&center=true&vCenter=true&width=750&lines=👋+Hi%2C+I'm+Soumyadip;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
@@ -7,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Soumyadip&style=flat&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=adrsshh&style=flat&color=brightgreen" alt="Profile Views" />
 </p>
 
 <!-- About Me Section -->
@@ -81,11 +80,8 @@
 ---
 
 ## 📊 GitHub Stats  
-
-<p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Soumyadip&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadip&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
+![Soumyadip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrsshh&show_icons=true&theme=radical&count_private=true&hide_title=false&include_all_commits=true&show_icons=true&line_height=27&layout=compact&hide_border=false)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrsshh&layout=compact&theme=radical)
 
 <p align="center">
   💡 <i>"Code is like humor. When you have to explain it, it’s bad."</i>
