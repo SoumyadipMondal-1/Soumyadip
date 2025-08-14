@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me <img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" style="margin-top: -80px; margin-left: 20px;" />
+## 🚀 About Me <img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" style="margin-top: -80px; margin-left: 20px;" />
   
 🎓 B.Tech in Computer Science & Engineering (2027)  
 🎓 Diploma in Electronics & Telecommunication Engineering (2024)  
