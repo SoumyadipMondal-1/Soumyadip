@@ -12,7 +12,7 @@
 <!-- About Me Section -->
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="45%">
 
 - 🎓 **B.Tech in Computer Science & Engineering** (2027)  
 - 🎓 **Diploma in Electronics & Telecommunication Engineering** (2024)  
