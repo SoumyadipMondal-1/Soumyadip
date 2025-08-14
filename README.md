@@ -12,8 +12,10 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
+<table>
+<tr>
+<td width="40%">
+  
 ## 🚀 About Me
   
 🎓 B.Tech in Computer Science & Engineering (2027)  
@@ -31,6 +33,13 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="40" height="40" style="filter: invert(19%) sepia(94%) saturate(4967%) hue-rotate(356deg) brightness(91%) contrast(98%);"/>
 </a>
 </p>
+
+</td>
+<td align="center" width="40%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
+</td>
+</tr>
+</table>
 
 ---
 
