@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Soumyadip
+# 👋 Hi I'm Soumyadip Mondal
 
 <p align="center">
   <a href="https://git.io/typing-svg">
