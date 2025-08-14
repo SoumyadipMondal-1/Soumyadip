@@ -80,13 +80,10 @@
 ---
 
 ## 📊 GitHub Stats  
-![Soumyadip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrsshh&show_icons=true&theme=radical)
 
----
-
-## 📈 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumyadip&theme=react-dark&height=280" width="92%" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Soumyadip&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadip&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 <p align="center">
