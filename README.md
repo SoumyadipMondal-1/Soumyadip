@@ -1,4 +1,4 @@
-# 👋 Hi I'm Soumyadip Mondal
+# Hi there! 👋 I'm Soumyadip
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -16,12 +16,13 @@
 
 <table>
 <tr>
-<td width="45%">
+<td width="60%">
 
 🎓 **B.Tech in Computer Science & Engineering** (2027)  
 🎓 **Diploma in Electronics & Telecommunication Engineering** (2024)  
 📚 Currently diving deep into **Data Science & Machine Learning**  
-💻 Passionate about **Data Science, Web Development, Problem Solving**  
+💻 Passionate about **Data Science, Web Development, IoT & Problem Solving**  
+🌱 Always eager to learn new technologies and tackle challenging problems  
 📧 **soumyadip848100@gmail.com**  
 
 ### 🤝 Connect with me:
@@ -47,44 +48,44 @@
 
 ### 💻 Programming Languages
 <p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&border-radius=10" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&border-radius=10" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&border-radius=10" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&border-radius=10" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="border-radius: 10px;" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 10px;" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="border-radius: 10px;" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="border-radius: 10px;" />
 </p>
 
-### 📊 Data Visualization Tools
+### 📊 Data Management Tools
 <p>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&border-radius=10" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&border-radius=10" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" style="border-radius: 10px;" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" style="border-radius: 10px;" />
 </p>
 
-### 🗄️ Databases Management Tools
+### 🗄️ Databases
 <p>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&border-radius=10" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&border-radius=10" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&border-radius=10" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="border-radius: 10px;" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="border-radius: 10px;" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" style="border-radius: 10px;" />
 </p>
 
 ### 📈 Data Science Libraries
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&border-radius=10" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&border-radius=10" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&border-radius=10" />
-<img src="https://img.shields.io/badge/Seaborn-4EABD1?style=for-the-badge&logo=python&logoColor=white&border-radius=10" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" style="border-radius: 10px;" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" style="border-radius: 10px;" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 10px;" />
+<img src="https://img.shields.io/badge/Seaborn-4EABD1?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 10px;" />
 </p>
 
 ### 🌐 Web Development
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&border-radius=10" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&border-radius=10" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&border-radius=10" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 10px;" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="border-radius: 10px;" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="border-radius: 10px;" />
 </p>
 
-### 🔧 Hardware
+### 🔧 Hardware & IoT
 <p>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&border-radius=10" />
-<img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=internetofthings&logoColor=white&border-radius=10" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" style="border-radius: 10px;" />
+<img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=internetofthings&logoColor=white" style="border-radius: 10px;" />
 </p>
 
 ---
