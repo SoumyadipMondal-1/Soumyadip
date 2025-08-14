@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td width="45%">
+<td width="40%">
   
 ## 🚀 About Me
   
