@@ -1,4 +1,4 @@
-# 👋 Hi I'm Soumyadip Mondal
+# Hi there! 👋 I'm Soumyadip
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -8,6 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adrsshh&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/adrsshh?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
 </p>
 
 ---
@@ -16,12 +17,12 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
 🎓 **B.Tech in Computer Science & Engineering** (2027)  
 🎓 **Diploma in Electronics & Telecommunication Engineering** (2024)  
 📚 Currently diving deep into **Data Science & Machine Learning**  
-💻 Passionate about **Data Science, Web Development, Problem Solving**  
+💻 Passionate about **Data Science, Web Development, IoT & Problem Solving**  
 🌱 Always eager to learn new technologies and tackle challenging problems  
 📧 **soumyadip848100@gmail.com**  
 
@@ -98,6 +99,16 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrsshh&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 Working on **Data Science projects** using Python
+- 🌱 Learning **Machine Learning algorithms** and **Deep Learning**
+- 👯 Looking to collaborate on **Open Source projects**
+- 💬 Ask me about **Data Analysis, Web Development, or IoT**
+- ⚡ Fun fact: I love turning coffee into code! ☕
 
 ---
 
