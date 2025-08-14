@@ -12,17 +12,17 @@
 
 ---
 
-## 🚀 About Me
-
 <table>
 <tr>
 <td width="45%">
-
-🎓 *B.Tech in Computer Science & Engineering* (2027)  
-🎓 *Diploma in Electronics & Telecommunication Engineering* (2024)  
-📚 Currently diving deep into *Data Science & Machine Learning*  
-💻 Passionate about *Data Science, Web Development, Problem Solving*  
-📧 *soumyadip848100@gmail.com*  
+  
+## 🚀 About Me
+  
+🎓 B.Tech in Computer Science & Engineering (2027)  
+🎓 Diploma in Electronics & Telecommunication Engineering (2024)  
+📚 Currently diving deep into Data Science & Machine Learning  
+💻 Passionate about Data Science, Web Development, Problem Solving  
+📧 soumyadip848100@gmail.com  
 
 ### 🤝 Connect with me:
 <p>
@@ -106,7 +106,7 @@
   
 ### 💫 "Code is like humor. When you have to explain it, it's bad."
 
-*Thanks for visiting! Let's build something amazing together! 🚀*
+Thanks for visiting! Let's build something amazing together! 🚀
 
 </div>
 
