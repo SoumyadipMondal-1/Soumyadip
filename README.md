@@ -12,7 +12,7 @@
 <!-- About Me Section -->
 <table>
 <tr>
-<td valign="top" width="45%">
+<td valign="top" width="50%">
 
 - 🎓 **B.Tech in Computer Science & Engineering** (2027)  
 - 🎓 **Diploma in Electronics & Telecommunication Engineering** (2024)  
@@ -24,12 +24,9 @@
 <a href="https://linkedin.com/in/your_linkedin" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
 </a>
-
 </td>
 <td valign="top" align="center" width="40%">
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="105%" alt="Tech Animation" />
-
 </td>
 </tr>
 </table>
