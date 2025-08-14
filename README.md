@@ -101,16 +101,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-- 🔭 Working on **Data Science projects** using Python
-- 🌱 Learning **Machine Learning algorithms** and **Deep Learning**
-- 👯 Looking to collaborate on **Open Source projects**
-- 💬 Ask me about **Data Analysis, Web Development, or IoT**
-- ⚡ Fun fact: I love turning coffee into code! ☕
-
----
-
 <div align="center">
   
 ### 💫 *"Code is like humor. When you have to explain it, it's bad."*
