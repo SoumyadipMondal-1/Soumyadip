@@ -17,6 +17,7 @@
 <td width="45%">
   
 ## 🚀 About Me
+
 🎓 *B.Tech in Computer Science & Engineering* (2027)  
 🎓 *Diploma in Electronics & Telecommunication Engineering* (2024)  
 📚 Currently diving deep into *Data Science & Machine Learning*  
