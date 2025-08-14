@@ -12,9 +12,11 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ## 🚀 About Me
+
+<div align="left" style="display: flex; align-items: flex-start;">
+  
+<div style="flex: 1; padding-right: 20px;">
   
 🎓 B.Tech in Computer Science & Engineering (2027)  
 🎓 Diploma in Electronics & Telecommunication Engineering (2024)  
@@ -31,6 +33,14 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="40" height="40" style="filter: invert(19%) sepia(94%) saturate(4967%) hue-rotate(356deg) brightness(91%) contrast(98%);"/>
 </a>
 </p>
+
+</div>
+
+<div align="right">
+  <img alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="margin-top: -20px;" />
+</div>
+
+</div>
 
 ---
 
