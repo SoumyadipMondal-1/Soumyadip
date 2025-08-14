@@ -12,6 +12,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## 🚀 About Me
   
 🎓 B.Tech in Computer Science & Engineering (2027)  
@@ -30,9 +34,12 @@
 </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="Coding Animation" />
-</p>
+</td>
+<td width="50%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
+</td>
+</tr>
+</table>
 
 ---
 
