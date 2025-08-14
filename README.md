@@ -16,13 +16,12 @@
 
 <table>
 <tr>
-<td width="47%">
+<td width="45%">
 
 🎓 **B.Tech in Computer Science & Engineering** (2027)  
 🎓 **Diploma in Electronics & Telecommunication Engineering** (2024)  
 📚 Currently diving deep into **Data Science & Machine Learning**  
 💻 Passionate about **Data Science, Web Development, Problem Solving**  
-🌱 Always eager to learn new technologies and tackle challenging problems  
 📧 **soumyadip848100@gmail.com**  
 
 ### 🤝 Connect with me:
