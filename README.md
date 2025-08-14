@@ -83,10 +83,7 @@
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumyadip&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadip&theme=radical" height="180" />
-</p>
+![Soumyadip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrsshh&show_icons=true&theme=radical)
 
 ---
 
