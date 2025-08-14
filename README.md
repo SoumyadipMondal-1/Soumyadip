@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adrsshh&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/adrsshh?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
 </p>
 
 ---
