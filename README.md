@@ -88,7 +88,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-five-rho.vercel.app?user=SoumyadipMondal-1&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D&v=1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-git-master-SoumyadipMondal-1.vercel.app?user=SoumyadipMondal-1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 ---
