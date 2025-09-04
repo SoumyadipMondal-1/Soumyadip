@@ -88,7 +88,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SoumyadipMondal-1&theme=tokyonight&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumyadipMondal-1&bg_color=0D1117&color=00FFB2&line=00FFB2&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
