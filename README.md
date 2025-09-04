@@ -83,18 +83,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adrsshh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img width="48%" hright= "30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrsshh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SoumyadipMondal-1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyadipMondal-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="48%" height="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyadipMondal-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SoumyadipMondal-1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
-
 
 ---
 
