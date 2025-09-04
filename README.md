@@ -82,15 +82,21 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SoumyadipMondal-1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img src="https://streak-stats.demolab.com?user=SoumyadipMondal-1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  
-</p>
+## 📊 GitHub Analytics
 
 <p align="center">
+  <!-- GitHub Stats -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SoumyadipMondal-1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" />
+
+  <!-- Top Languages -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyadipMondal-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SoumyadipMondal-1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
 
 ---
 
