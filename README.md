@@ -87,8 +87,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyadipMondal-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyadipMondal-1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" /> 
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app?user=SoumyadipMondal-1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 ---
